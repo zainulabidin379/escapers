@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "789915801762",
+    "project_id": "escapers-56735",
+    "storage_bucket": "escapers-56735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789915801762:android:bcf0ae0ca30307457f1ffb",
+        "android_client_info": {
+          "package_name": "com.example.escapers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789915801762-2n650nrbbetn5mbp33217d65ck5h0ql0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.escapers_app",
+            "certificate_hash": "e487ae5e2254c2c2ea00261436cc7948322c1dc3"
+          }
+        },
+        {
+          "client_id": "789915801762-uaouebd8aukvs45c2sl7ohaov9tt2o2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg0DpBD3VcqwmoFYDaXC7YzagIZBLJW2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789915801762-uaouebd8aukvs45c2sl7ohaov9tt2o2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
